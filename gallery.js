@@ -4,4 +4,8 @@ export const usegallery= () =>
 { return useContext(gallery);
 
 }
+const addItem = (newItem) => {
+    setGalleryItems((prevItems) => [...prevItems, newItem]);
+  };
+
 
