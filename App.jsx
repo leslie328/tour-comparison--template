@@ -12,4 +12,4 @@ const app =() => {
 </Routes>
 </Router>
     )};
-    export app;
+    export default app;
