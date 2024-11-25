@@ -1,0 +1,24 @@
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    background-color: #ef9047;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #a04685;
+  }
+  
+  div {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  
+  
+ 
